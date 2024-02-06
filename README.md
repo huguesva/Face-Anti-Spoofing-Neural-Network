@@ -1,3 +1,5 @@
+### Disclaimer : this is a former school project (unmaintained).
+
 # Face-Anti-Spoofing-Neural-Network
 
 This repository contains a PyTorch implementation of the Paper ['Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision' - Yaojie Liu, Amin Jourabloo, Xiaoming Liu from Michigan State University.](http://cvlab.cse.msu.edu/pdfs/Liu_Jourabloo_Liu_CVPR2018.pdf)
